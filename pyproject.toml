@@ -1,0 +1,5 @@
+[project]
+name = "linkedin-ai-job-applier-ultimate"
+version = "0.1.0"
+description = "AI-powered LinkedIn and Indeed job application bot with Playwright automation, LLM integration, data anonymization, and Telegram reporting. Applies to ALL job types (not just Easy Apply), generates custom resumes, and provides skill statistics."
+requires-python = ">=3.10"
