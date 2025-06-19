@@ -9,3 +9,4 @@ dist/
 tmp/
 .cache/
 *.tmp
+.pytest_cache/
